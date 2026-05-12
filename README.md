@@ -11,7 +11,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 > <a href="https://ux.stackexchange.com/questions/53264/dark-or-white-color-theme-is-better-for-the-eyes">Dark or white color theme is better for the eyes?</a>
 
-<img src="./assets/falcon-light-green.png" alt="Falcon Green Light" style="border: 1px solid #CED0D6;">
+<img src="./assets/falcon-light-green.png" alt="Falcon Green Light"/>
 
 **Features:**
 
@@ -73,11 +73,11 @@ Using **JetBrains IDEs?** You can also experience the same theme there.
 
 <details open>
     <summary>🌲 Green</summary>
-    <img src="./assets/falcon-light-green.png" alt="Falcon Green Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/falcon-light-green.png" alt="Falcon Green Light"/>
 </details>
 <details open>
     <summary>🌸 Pink</summary>
-    <img src="./assets/falcon-light-pink.png" alt="Falcon Pink Light" style="border: 1px solid #CED0D6;">
+    <img src="./assets/falcon-light-pink.png" alt="Falcon Pink Light"/>
 </details>
 
 There is more coming soooooon!!!
