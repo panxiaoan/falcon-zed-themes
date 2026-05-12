@@ -71,4 +71,17 @@ Using **JetBrains IDEs?** You can also experience the same theme there.
 
 ## Light themes Screenshot
 
+<details open>
+    <summary>🌲 Green</summary>
+    <img src="./assets/falcon-light-green.png" alt="Falcon Green Light" style="border: 1px solid #CED0D6;">
+</details>
+<details open>
+    <summary>🌸 Pink</summary>
+    <img src="./assets/falcon-light-pink.png" alt="Falcon Pink Light" style="border: 1px solid #CED0D6;">
+</details>
+
+There is more coming soooooon!!!
+
 ## Dark themes Screenshot
+
+There is more coming soooooon!!!
