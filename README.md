@@ -29,7 +29,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [ ] Falcon Light Green Contrast
 - [ ] Falcon Light Bean Green
 - [ ] Falcon Light Grey
-- [ ] Falcon Light Pink
+- [x] Falcon Light Pink
 - [ ] Falcon Light Yellow
 - [ ] Falcon Light Buff
 
