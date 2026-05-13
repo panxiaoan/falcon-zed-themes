@@ -26,7 +26,6 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 - [ ] Falcon Light Celadon (My favorite 💚)
 - [x] Falcon Light Green
-- [ ] Falcon Light Green Contrast
 - [ ] Falcon Light Bean Green
 - [ ] Falcon Light Grey
 - [x] Falcon Light Pink
@@ -38,7 +37,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [ ] Falcon Dark
 - [ ] Falcon Dark Darcula
 - [ ] Falcon Dark Blue
-- [ ] Falcon Dark Green
+- [x] Falcon Dark Green
 - [ ] Falcon Dark Violet
 - [ ] Falcon Dark Coffee
 
@@ -87,5 +86,10 @@ Using **JetBrains IDEs?** You can also experience the same theme there.
 There is more coming soooooon!!!
 
 ## Dark themes Screenshot
+
+<details open>
+    <summary>🦚 Dark Green</summary>
+    <img src="./assets/falcon-dark-green.png" alt="Falcon Dark Green"/>
+</details>
 
 There is more coming soooooon!!!
