@@ -30,7 +30,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [ ] Falcon Light Bean Green
 - [ ] Falcon Light Grey
 - [x] Falcon Light Pink
-- [ ] Falcon Light Yellow
+- [x] Falcon Light Yellow
 - [ ] Falcon Light Buff
 
 **Dark themes (for low-light environments):**
@@ -73,11 +73,15 @@ Using **JetBrains IDEs?** You can also experience the same theme there.
 
 <details open>
     <summary>🌲 Green</summary>
-    <img src="./assets/falcon-light-green.png" alt="Falcon Green Light"/>
+    <img src="./assets/falcon-light-green.png" alt="Falcon Light Green"/>
 </details>
 <details open>
     <summary>🌸 Pink</summary>
-    <img src="./assets/falcon-light-pink.png" alt="Falcon Pink Light"/>
+    <img src="./assets/falcon-light-pink.png" alt="Falcon Light Pink"/>
+</details>
+<details open>
+    <summary>🐣 Yellow</summary>
+    <img src="./assets/falcon-light-yellow.png" alt="Falcon Light Yellow"/>
 </details>
 
 There is more coming soooooon!!!
