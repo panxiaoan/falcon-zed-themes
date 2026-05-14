@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: huacnlee/zed-extension-action@v1
         with:
-          extension-name: falcon
+          extension-name: falcon-theme
           push-to: panxiaoan/zed-extensions
         env:
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
