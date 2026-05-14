@@ -35,7 +35,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 **Dark themes (for low-light environments):**
 
 - [ ] Falcon Dark
-- [ ] Falcon Dark Darcula
+- [x] Falcon Dark Darcula
 - [ ] Falcon Dark Blue
 - [x] Falcon Dark Green
 - [ ] Falcon Dark Violet
@@ -91,6 +91,10 @@ There is more coming soooooon!!!
 
 ## Dark themes Screenshot
 
+<details open>
+    <summary>🌌 Dark Darcula</summary>
+    <img src="./assets/falcon-dark-darcula.png" alt="Falcon Dark Darcula"/>
+</details>
 <details open>
     <summary>🦚 Dark Green</summary>
     <img src="./assets/falcon-dark-green.png" alt="Falcon Dark Green"/>
