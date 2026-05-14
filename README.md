@@ -36,7 +36,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 - [ ] Falcon Dark
 - [x] Falcon Dark Darcula
-- [ ] Falcon Dark Blue
+- [x] Falcon Dark Blue
 - [x] Falcon Dark Green
 - [ ] Falcon Dark Violet
 - [ ] Falcon Dark Coffee
@@ -92,12 +92,16 @@ There is more coming soooooon!!!
 ## Dark themes Screenshot
 
 <details open>
-    <summary>🌌 Dark Darcula</summary>
+    <summary>🧛 Dark Darcula</summary>
     <img src="./assets/falcon-dark-darcula.png" alt="Falcon Dark Darcula"/>
 </details>
 <details open>
     <summary>🦚 Dark Green</summary>
     <img src="./assets/falcon-dark-green.png" alt="Falcon Dark Green"/>
+</details>
+<details open>
+    <summary>🌌 Dark Blue</summary>
+    <img src="./assets/falcon-dark-blue.png" alt="Falcon Dark Blue"/>
 </details>
 
 There is more coming soooooon!!!
