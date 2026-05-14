@@ -39,7 +39,7 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 - [x] Falcon Dark Blue
 - [x] Falcon Dark Green
 - [ ] Falcon Dark Violet
-- [ ] Falcon Dark Coffee
+- [x] Falcon Dark Coffee
 
 ## Install
 
@@ -106,6 +106,10 @@ There is more coming soooooon!!!
 <details open>
     <summary>🌌 Dark Blue</summary>
     <img src="./assets/falcon-dark-blue.png" alt="Falcon Dark Blue"/>
+</details>
+<details open>
+    <summary>☕️ Dark Coffee</summary>
+    <img src="./assets/falcon-dark-coffee.png" alt="Falcon Dark Coffee"/>
 </details>
 
 There is more coming soooooon!!!
