@@ -47,8 +47,8 @@ See [Install Docs](./INSTALL.md) for detailed instructions.
 
 ## Source Code
 
-- [Gitee](https://gitee.com/panxiaoan/falcon-zed-themes)
-- [Github](https://github.com/panxiaoan/falcon-zed-themes)
+- [☁️ Gitee](https://gitee.com/panxiaoan/falcon-zed-themes)
+- [🐙 Github](https://github.com/panxiaoan/falcon-zed-themes)
 
 ## Issues
 
@@ -60,11 +60,11 @@ See [MIT License](./LICENSE) for detailed instructions.
 
 ## Falcon Themes for VS Code, JetBrains
 
-Using **VS Code?** You can also experience the same theme there.
+Using **💙 VS Code?** You can also experience the same theme there.
 
 👉 [Download from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=panxiaoan.themes-falcon-vscode)
 
-Using **JetBrains IDEs?** You can also experience the same theme there.
+Using **🚀 JetBrains IDEs?** You can also experience the same theme there.
 
 👉 [Download from Jetbrains Marketplace](https://plugins.jetbrains.com/plugin/26026-falcon-relax-eyes-light-theme)
 
