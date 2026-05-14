@@ -24,22 +24,22 @@ You might want to try The Falcon Relaxing-Eyes Themes.<br/>
 
 **Light themes (for bright environments):**
 
-- [ ] Falcon Light Celadon (My favorite 💚)
-- [x] Falcon Light Green
-- [x] Falcon Light Bean Green
-- [ ] Falcon Light Grey
-- [x] Falcon Light Pink
-- [x] Falcon Light Yellow
-- [x] Falcon Light Buff
+- [x] ☘️ Falcon Light Green (My favorite 💋)
+- [x] 🍵 Falcon Light Celadon 
+- [x] 🌲 Falcon Light Bean Green
+- [ ] 🗞️ Falcon Light Grey
+- [x] 🌸 Falcon Light Pink
+- [x] 🐣 Falcon Light Yellow
+- [x] 🐂 Falcon Light Buff
 
 **Dark themes (for low-light environments):**
 
-- [ ] Falcon Dark
-- [x] Falcon Dark Darcula
-- [x] Falcon Dark Blue
-- [x] Falcon Dark Green
-- [ ] Falcon Dark Violet
-- [x] Falcon Dark Coffee
+- [ ] 🐈‍⬛ Falcon Dark
+- [x] 🧛 Falcon Dark Darcula
+- [x] 🦚 Falcon Dark Green
+- [x] 🌌 Falcon Dark Blue
+- [ ] ☂️ Falcon Dark Violet
+- [x] ☕️ Falcon Dark Coffee
 
 ## Install
 
@@ -71,11 +71,15 @@ Using **JetBrains IDEs?** You can also experience the same theme there.
 ## Light themes Screenshot
 
 <details open>
-    <summary>🌲 Green</summary>
+    <summary>☘️ Green</summary>
     <img src="./assets/falcon-light-green.png" alt="Falcon Light Green"/>
 </details>
 <details open>
-    <summary>☘️ Bean Green</summary>
+    <summary>🍵 Celadon</summary>
+    <img src="./assets/falcon-light-celadon.png" alt="Falcon Light Celadon"/>
+</details>
+<details open>
+    <summary>🌲 Bean Green</summary>
     <img src="./assets/falcon-light-bean-green.png" alt="Falcon Light Bean Green"/>
 </details>
 <details open>
