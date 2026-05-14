@@ -1,5 +1,9 @@
 # 🦅 Falcon Relaxing-Eyes Themes for [Zed](https://zed.dev)
 
+<p align="center">
+   <img src="./assets/logo.png" alt="Logo" width="128"/>
+</p>
+
 > A gentle, eye-friendly theme to protect your eyesight for [Zed](https://zed.dev).
 > 一个温和的，对眼睛友好，保护视力的 Zed 护眼主题
 
