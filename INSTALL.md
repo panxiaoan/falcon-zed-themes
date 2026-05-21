@@ -1,15 +1,15 @@
-### [Zed](https://zed.dev)
-
-#### Install in Zed Extensions
+### 🦅 Falcon Relaxing-Eyes Themes for [Zed](https://zed.dev)
 
 > [About Falcon Relaxing-Eyes Themes](https://zed.dev/extensions/falcon-theme)
+
+#### Install in Zed Extensions
 
 1. Open Zed.
 2. Press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> to open the Extensions view, or type `zed: extensions` in the command palette.
 3. Search for `falcon` and click **Install**.
 4. Open the Command Palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>), type `theme selector: toggle`, and select your preferred Falcon theme (e.g., `Falcon Light Green`, `Celadon`, `Grey`, etc.).
 
-<img src="./assets/install_1.png" width="250"/> &nbsp;&nbsp; <img src="./assets/install_2.png" width="250"/>
+<img src="./assets/install_1.png" width="300"/> &nbsp;&nbsp; <img src="./assets/install_2.png" width="300"/>
 
 #### Install manually
 
