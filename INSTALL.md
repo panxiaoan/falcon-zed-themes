@@ -1,9 +1,13 @@
 ### [Zed](https://zed.dev)
 
-#### Install in Zed (Not supported for now)
+#### Install in Zed Extensions
 
-This theme can be installed via the Zed extensions store.
-After installing, the theme can be selected in the theme selector.
+1. Open Zed.
+2. Press <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>X</kbd> to open the Extensions view, or type `zed: extensions` in the command palette.
+3. Search for `falcon` and click **Install**.
+4. Open the Command Palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>), type `theme selector: toggle`, and select your preferred Falcon theme (e.g., `Falcon Light Green`, `Celadon`, `Grey`, etc.).
+
+<img src="./assets/install_1.png" width="250"/> &nbsp;&nbsp; <img src="./assets/install_2.png" width="250"/>
 
 #### Install manually
 
